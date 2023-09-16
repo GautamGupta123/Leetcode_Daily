@@ -38,9 +38,6 @@ class Solution {
             }
         }
         int flag=0;
-        // for(i=0;i<=ans.length-1;i++){
-        //     System.out.print(ans[i]);
-        // }
         Arrays.sort(ans);
         for(i=0;i<ans.length-1;i++){
             if(ans[i]!=ans[i+1]){
