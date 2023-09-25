@@ -1,7 +1,7 @@
-import java.util.*;;
+import java.util.*;
 class Solution {
     
-    public Pair indexes(long v[], long x)
+    public pair indexes(long v[], long x)
     {
         // Your code goes here
         int i;
