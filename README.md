@@ -1,4 +1,4 @@
-# Leetcode_Daily
+# Leetcode_GFG_Daily
 
 🔗This Repository contains all my Leetcode and GeeksforGeeks question solutions that I solve on daily Basis. 
 Solutions will be provided in Java Language.
