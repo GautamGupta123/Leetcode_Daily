@@ -1,11 +1,11 @@
-class Solution {
-    public static class ListNode{
+  class ListNode{
         int val;
         ListNode next;
         ListNode(int val){
             this.val=val;
             this.next=null;
         }
+class Solution {
     }
     public ListNode sortList(ListNode head) {
         ListNode temp=head;
