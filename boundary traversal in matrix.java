@@ -3,7 +3,7 @@ class Solution
 {
     static ArrayList<Integer> boundaryTraversal(int matrix[][], int n, int m)
     {
-        int i,j;
+        int i;
         ArrayList<Integer>ls=new ArrayList<Integer>();
         if(n==1){
             for(i=0;i<=m-1;i++){
