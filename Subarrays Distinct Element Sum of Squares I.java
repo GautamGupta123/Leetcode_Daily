@@ -4,7 +4,6 @@ class Solution {
         int i,j;
         HashSet<Integer>hs=new HashSet<Integer>();
         int square=0;
-        // for(i=0;i<=nums.size()-1;i++){
          if(nums.size()==1){
              return 1;
          }
