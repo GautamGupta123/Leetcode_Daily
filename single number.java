@@ -1,3 +1,4 @@
+import java.util.*;
 class Solution {
     int getSingle(int arr[], int n) {
         int i;
