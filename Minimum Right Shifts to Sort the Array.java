@@ -1,3 +1,4 @@
+import java.util.*;
 class Solution {
     public static boolean check(int ans[]){
         int i;
