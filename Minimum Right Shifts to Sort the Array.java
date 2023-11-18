@@ -16,7 +16,7 @@ class Solution {
     }
     public int minimumRightShifts(List<Integer> nums) {
         int n=nums.size();
-        int i,j;
+        int i;
         int d=n;
         int op=0;
         int last=0;
